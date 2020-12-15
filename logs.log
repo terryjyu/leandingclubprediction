@@ -1,0 +1,1367 @@
+2020-12-14 00:49:25,804:INFO:Initializing load_model()
+2020-12-14 00:49:25,804:INFO:load_model(model_name=\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 00:55:54,771:INFO:Initializing load_model()
+2020-12-14 00:55:54,771:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 00:55:54,776:INFO:Initializing load_model()
+2020-12-14 00:55:54,777:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 00:57:13,028:INFO:Initializing load_model()
+2020-12-14 00:57:13,029:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 00:57:13,034:INFO:Initializing load_model()
+2020-12-14 00:57:13,034:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 00:58:16,227:INFO:Initializing load_model()
+2020-12-14 00:58:16,227:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 00:58:16,233:INFO:Initializing load_model()
+2020-12-14 00:58:16,233:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 00:58:49,316:INFO:Initializing load_model()
+2020-12-14 00:58:49,316:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 00:58:49,322:INFO:Initializing load_model()
+2020-12-14 00:58:49,322:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 00:59:38,735:INFO:Initializing load_model()
+2020-12-14 00:59:38,735:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 00:59:38,741:INFO:Initializing load_model()
+2020-12-14 00:59:38,741:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 01:00:42,056:INFO:Initializing load_model()
+2020-12-14 01:00:42,056:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 01:00:42,061:INFO:Initializing load_model()
+2020-12-14 01:00:42,061:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 01:02:32,736:INFO:Initializing load_model()
+2020-12-14 01:02:32,736:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 01:02:32,741:INFO:Initializing load_model()
+2020-12-14 01:02:32,741:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 01:05:35,101:INFO:Initializing load_model()
+2020-12-14 01:05:35,101:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 01:05:35,107:INFO:Initializing load_model()
+2020-12-14 01:05:35,107:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 01:06:42,055:INFO:Initializing load_model()
+2020-12-14 01:06:42,056:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 01:06:42,061:INFO:Initializing load_model()
+2020-12-14 01:06:42,061:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 01:24:12,283:INFO:Initializing load_model()
+2020-12-14 01:24:12,283:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 01:24:12,289:INFO:Initializing load_model()
+2020-12-14 01:24:12,289:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:44:20,389:INFO:Initializing load_model()
+2020-12-14 14:44:20,389:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:44:20,401:INFO:Initializing load_model()
+2020-12-14 14:44:20,401:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:45:21,926:INFO:Initializing load_model()
+2020-12-14 14:45:21,926:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:45:21,933:INFO:Initializing load_model()
+2020-12-14 14:45:21,933:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:45:59,483:INFO:Initializing load_model()
+2020-12-14 14:45:59,483:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:45:59,489:INFO:Initializing load_model()
+2020-12-14 14:45:59,489:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:46:26,612:INFO:Initializing load_model()
+2020-12-14 14:46:26,612:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:46:26,617:INFO:Initializing load_model()
+2020-12-14 14:46:26,617:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:46:55,556:INFO:Initializing load_model()
+2020-12-14 14:46:55,556:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:46:55,563:INFO:Initializing load_model()
+2020-12-14 14:46:55,563:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:47:19,349:INFO:Initializing load_model()
+2020-12-14 14:47:19,349:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:47:19,355:INFO:Initializing load_model()
+2020-12-14 14:47:19,355:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:47:36,059:INFO:Initializing load_model()
+2020-12-14 14:47:36,060:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:47:36,065:INFO:Initializing load_model()
+2020-12-14 14:47:36,065:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:48:03,918:INFO:Initializing load_model()
+2020-12-14 14:48:03,918:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:48:03,924:INFO:Initializing load_model()
+2020-12-14 14:48:03,924:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:48:21,518:INFO:Initializing load_model()
+2020-12-14 14:48:21,518:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:48:21,524:INFO:Initializing load_model()
+2020-12-14 14:48:21,524:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:48:28,599:INFO:Initializing load_model()
+2020-12-14 14:48:28,600:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:48:28,606:INFO:Initializing load_model()
+2020-12-14 14:48:28,606:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:49:23,454:INFO:Initializing load_model()
+2020-12-14 14:49:23,454:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:49:23,460:INFO:Initializing load_model()
+2020-12-14 14:49:23,460:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:49:30,415:INFO:Initializing load_model()
+2020-12-14 14:49:30,415:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:49:30,421:INFO:Initializing load_model()
+2020-12-14 14:49:30,421:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:50:31,685:INFO:Initializing load_model()
+2020-12-14 14:50:31,685:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:50:31,690:INFO:Initializing load_model()
+2020-12-14 14:50:31,690:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:50:38,733:INFO:Initializing load_model()
+2020-12-14 14:50:38,733:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:50:38,739:INFO:Initializing load_model()
+2020-12-14 14:50:38,739:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:51:51,408:INFO:Initializing load_model()
+2020-12-14 14:51:51,408:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:51:51,413:INFO:Initializing load_model()
+2020-12-14 14:51:51,413:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:51:58,297:INFO:Initializing load_model()
+2020-12-14 14:51:58,297:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:51:58,303:INFO:Initializing load_model()
+2020-12-14 14:51:58,303:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:55:54,815:INFO:Initializing load_model()
+2020-12-14 14:55:54,815:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:55:54,820:INFO:Initializing load_model()
+2020-12-14 14:55:54,820:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:56:01,762:INFO:Initializing load_model()
+2020-12-14 14:56:01,762:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:56:01,767:INFO:Initializing load_model()
+2020-12-14 14:56:01,768:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:58:58,582:INFO:Initializing load_model()
+2020-12-14 14:58:58,582:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:58:58,588:INFO:Initializing load_model()
+2020-12-14 14:58:58,588:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:59:05,151:INFO:Initializing load_model()
+2020-12-14 14:59:05,151:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 14:59:05,156:INFO:Initializing load_model()
+2020-12-14 14:59:05,156:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:02:20,160:INFO:Initializing load_model()
+2020-12-14 15:02:20,160:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:02:20,166:INFO:Initializing load_model()
+2020-12-14 15:02:20,166:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:02:26,749:INFO:Initializing load_model()
+2020-12-14 15:02:26,749:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:02:26,755:INFO:Initializing load_model()
+2020-12-14 15:02:26,755:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:03:02,543:INFO:Initializing load_model()
+2020-12-14 15:03:02,543:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:03:02,549:INFO:Initializing load_model()
+2020-12-14 15:03:02,549:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:03:09,104:INFO:Initializing load_model()
+2020-12-14 15:03:09,104:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:03:09,109:INFO:Initializing load_model()
+2020-12-14 15:03:09,109:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:04:25,367:INFO:Initializing load_model()
+2020-12-14 15:04:25,367:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:04:25,372:INFO:Initializing load_model()
+2020-12-14 15:04:25,372:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:04:31,893:INFO:Initializing load_model()
+2020-12-14 15:04:31,893:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:04:31,899:INFO:Initializing load_model()
+2020-12-14 15:04:31,899:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:06:40,454:INFO:Initializing predict_model()
+2020-12-14 15:06:40,454:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:06:40,454:INFO:Checking exceptions
+2020-12-14 15:06:40,454:INFO:Preloading libraries
+2020-12-14 15:06:40,587:INFO:Initializing predict_model()
+2020-12-14 15:06:40,587:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:06:40,587:INFO:Checking exceptions
+2020-12-14 15:06:40,588:INFO:Preloading libraries
+2020-12-14 15:06:54,771:INFO:Initializing load_model()
+2020-12-14 15:06:54,771:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:06:54,776:INFO:Initializing load_model()
+2020-12-14 15:06:54,776:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:07:01,275:INFO:Initializing load_model()
+2020-12-14 15:07:01,275:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:07:01,280:INFO:Initializing load_model()
+2020-12-14 15:07:01,280:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:07:21,168:INFO:Initializing predict_model()
+2020-12-14 15:07:21,168:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:07:21,168:INFO:Checking exceptions
+2020-12-14 15:07:21,168:INFO:Preloading libraries
+2020-12-14 15:07:21,425:INFO:Initializing predict_model()
+2020-12-14 15:07:21,425:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:07:21,426:INFO:Checking exceptions
+2020-12-14 15:07:21,426:INFO:Preloading libraries
+2020-12-14 15:07:40,674:INFO:Initializing predict_model()
+2020-12-14 15:07:40,674:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:07:40,674:INFO:Checking exceptions
+2020-12-14 15:07:40,674:INFO:Preloading libraries
+2020-12-14 15:10:34,482:INFO:Initializing predict_model()
+2020-12-14 15:10:34,482:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:10:34,482:INFO:Checking exceptions
+2020-12-14 15:10:34,482:INFO:Preloading libraries
+2020-12-14 15:10:38,141:INFO:Initializing predict_model()
+2020-12-14 15:10:38,141:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:10:38,141:INFO:Checking exceptions
+2020-12-14 15:10:38,141:INFO:Preloading libraries
+2020-12-14 15:10:52,258:INFO:Initializing load_model()
+2020-12-14 15:10:52,258:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:10:52,264:INFO:Initializing load_model()
+2020-12-14 15:10:52,264:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:10:58,826:INFO:Initializing load_model()
+2020-12-14 15:10:58,826:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:10:58,831:INFO:Initializing load_model()
+2020-12-14 15:10:58,831:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:11:06,692:INFO:Initializing predict_model()
+2020-12-14 15:11:06,692:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:11:06,692:INFO:Checking exceptions
+2020-12-14 15:11:06,692:INFO:Preloading libraries
+2020-12-14 15:12:34,717:INFO:Initializing load_model()
+2020-12-14 15:12:34,717:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:12:34,722:INFO:Initializing load_model()
+2020-12-14 15:12:34,722:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:12:41,188:INFO:Initializing load_model()
+2020-12-14 15:12:41,188:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:12:41,193:INFO:Initializing load_model()
+2020-12-14 15:12:41,193:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:13:01,699:INFO:Initializing predict_model()
+2020-12-14 15:13:01,699:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:13:01,699:INFO:Checking exceptions
+2020-12-14 15:13:01,699:INFO:Preloading libraries
+2020-12-14 15:14:05,612:INFO:Initializing load_model()
+2020-12-14 15:14:05,612:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:14:05,618:INFO:Initializing load_model()
+2020-12-14 15:14:05,618:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:14:12,138:INFO:Initializing load_model()
+2020-12-14 15:14:12,138:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:14:12,144:INFO:Initializing load_model()
+2020-12-14 15:14:12,144:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:15:35,861:INFO:Initializing load_model()
+2020-12-14 15:15:35,861:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:15:35,867:INFO:Initializing load_model()
+2020-12-14 15:15:35,867:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:15:42,462:INFO:Initializing load_model()
+2020-12-14 15:15:42,462:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:15:42,467:INFO:Initializing load_model()
+2020-12-14 15:15:42,467:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:17:30,035:INFO:Initializing load_model()
+2020-12-14 15:17:30,035:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:17:30,040:INFO:Initializing load_model()
+2020-12-14 15:17:30,040:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:17:36,504:INFO:Initializing load_model()
+2020-12-14 15:17:36,504:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:17:36,510:INFO:Initializing load_model()
+2020-12-14 15:17:36,510:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:17:50,800:INFO:Initializing predict_model()
+2020-12-14 15:17:50,800:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:17:50,800:INFO:Checking exceptions
+2020-12-14 15:17:50,800:INFO:Preloading libraries
+2020-12-14 15:22:30,132:INFO:Initializing load_model()
+2020-12-14 15:22:30,132:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:22:30,137:INFO:Initializing load_model()
+2020-12-14 15:22:30,137:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:22:36,599:INFO:Initializing load_model()
+2020-12-14 15:22:36,599:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:22:36,605:INFO:Initializing load_model()
+2020-12-14 15:22:36,605:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:25:34,005:INFO:Initializing load_model()
+2020-12-14 15:25:34,005:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:25:34,010:INFO:Initializing load_model()
+2020-12-14 15:25:34,011:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:25:40,492:INFO:Initializing load_model()
+2020-12-14 15:25:40,492:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:25:40,497:INFO:Initializing load_model()
+2020-12-14 15:25:40,497:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:25:51,651:INFO:Initializing predict_model()
+2020-12-14 15:25:51,651:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:25:51,651:INFO:Checking exceptions
+2020-12-14 15:25:51,651:INFO:Preloading libraries
+2020-12-14 15:25:51,820:INFO:Initializing predict_model()
+2020-12-14 15:25:51,820:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:25:51,820:INFO:Checking exceptions
+2020-12-14 15:25:51,820:INFO:Preloading libraries
+2020-12-14 15:25:51,964:INFO:Initializing predict_model()
+2020-12-14 15:25:51,964:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:25:51,964:INFO:Checking exceptions
+2020-12-14 15:25:51,964:INFO:Preloading libraries
+2020-12-14 15:25:52,112:INFO:Initializing predict_model()
+2020-12-14 15:25:52,112:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:25:52,112:INFO:Checking exceptions
+2020-12-14 15:25:52,112:INFO:Preloading libraries
+2020-12-14 15:25:53,970:INFO:Initializing predict_model()
+2020-12-14 15:25:53,970:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:25:53,970:INFO:Checking exceptions
+2020-12-14 15:25:53,971:INFO:Preloading libraries
+2020-12-14 15:25:54,130:INFO:Initializing predict_model()
+2020-12-14 15:25:54,130:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:25:54,131:INFO:Checking exceptions
+2020-12-14 15:25:54,131:INFO:Preloading libraries
+2020-12-14 15:25:54,292:INFO:Initializing predict_model()
+2020-12-14 15:25:54,292:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:25:54,292:INFO:Checking exceptions
+2020-12-14 15:25:54,292:INFO:Preloading libraries
+2020-12-14 15:25:54,457:INFO:Initializing predict_model()
+2020-12-14 15:25:54,457:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:25:54,457:INFO:Checking exceptions
+2020-12-14 15:25:54,457:INFO:Preloading libraries
+2020-12-14 15:25:54,606:INFO:Initializing predict_model()
+2020-12-14 15:25:54,606:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:25:54,607:INFO:Checking exceptions
+2020-12-14 15:25:54,607:INFO:Preloading libraries
+2020-12-14 15:25:54,759:INFO:Initializing predict_model()
+2020-12-14 15:25:54,759:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 15:25:54,759:INFO:Checking exceptions
+2020-12-14 15:25:54,759:INFO:Preloading libraries
+2020-12-14 15:27:57,630:INFO:Initializing load_model()
+2020-12-14 15:27:57,630:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:27:57,635:INFO:Initializing load_model()
+2020-12-14 15:27:57,635:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:28:04,113:INFO:Initializing load_model()
+2020-12-14 15:28:04,113:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:28:04,119:INFO:Initializing load_model()
+2020-12-14 15:28:04,119:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:28:37,523:INFO:Initializing load_model()
+2020-12-14 15:28:37,523:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:28:37,528:INFO:Initializing load_model()
+2020-12-14 15:28:37,528:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:28:44,049:INFO:Initializing load_model()
+2020-12-14 15:28:44,049:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:28:44,054:INFO:Initializing load_model()
+2020-12-14 15:28:44,054:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:29:05,959:INFO:Initializing load_model()
+2020-12-14 15:29:05,959:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:29:05,964:INFO:Initializing load_model()
+2020-12-14 15:29:05,964:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:29:12,541:INFO:Initializing load_model()
+2020-12-14 15:29:12,541:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:29:12,547:INFO:Initializing load_model()
+2020-12-14 15:29:12,547:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:31:07,068:INFO:Initializing load_model()
+2020-12-14 15:31:07,068:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:31:07,074:INFO:Initializing load_model()
+2020-12-14 15:31:07,074:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:31:14,213:INFO:Initializing load_model()
+2020-12-14 15:31:14,213:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:31:14,218:INFO:Initializing load_model()
+2020-12-14 15:31:14,218:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:33:26,868:INFO:Initializing load_model()
+2020-12-14 15:33:26,868:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:33:26,874:INFO:Initializing load_model()
+2020-12-14 15:33:26,874:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:33:33,472:INFO:Initializing load_model()
+2020-12-14 15:33:33,472:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:33:33,478:INFO:Initializing load_model()
+2020-12-14 15:33:33,478:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:36:06,535:INFO:Initializing load_model()
+2020-12-14 15:36:06,535:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:36:06,541:INFO:Initializing load_model()
+2020-12-14 15:36:06,541:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:36:13,486:INFO:Initializing load_model()
+2020-12-14 15:36:13,486:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:36:13,492:INFO:Initializing load_model()
+2020-12-14 15:36:13,492:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:37:05,084:INFO:Initializing load_model()
+2020-12-14 15:37:05,085:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:37:05,090:INFO:Initializing load_model()
+2020-12-14 15:37:05,090:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:37:11,959:INFO:Initializing load_model()
+2020-12-14 15:37:11,959:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:37:11,965:INFO:Initializing load_model()
+2020-12-14 15:37:11,965:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:37:44,457:INFO:Initializing load_model()
+2020-12-14 15:37:44,457:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:37:44,463:INFO:Initializing load_model()
+2020-12-14 15:37:44,463:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:37:51,349:INFO:Initializing load_model()
+2020-12-14 15:37:51,349:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:37:51,355:INFO:Initializing load_model()
+2020-12-14 15:37:51,355:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:43:43,118:INFO:Initializing load_model()
+2020-12-14 15:43:43,118:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:43:43,123:INFO:Initializing load_model()
+2020-12-14 15:43:43,123:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:43:49,578:INFO:Initializing load_model()
+2020-12-14 15:43:49,578:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:43:49,584:INFO:Initializing load_model()
+2020-12-14 15:43:49,584:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:47:28,861:INFO:Initializing load_model()
+2020-12-14 15:47:28,861:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:47:28,867:INFO:Initializing load_model()
+2020-12-14 15:47:28,867:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:47:35,790:INFO:Initializing load_model()
+2020-12-14 15:47:35,790:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:47:35,796:INFO:Initializing load_model()
+2020-12-14 15:47:35,796:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:48:51,106:INFO:Initializing load_model()
+2020-12-14 15:48:51,106:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:48:51,113:INFO:Initializing load_model()
+2020-12-14 15:48:51,113:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:48:58,013:INFO:Initializing load_model()
+2020-12-14 15:48:58,013:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:48:58,019:INFO:Initializing load_model()
+2020-12-14 15:48:58,019:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:52:15,425:INFO:Initializing load_model()
+2020-12-14 15:52:15,425:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:52:15,430:INFO:Initializing load_model()
+2020-12-14 15:52:15,431:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:52:22,340:INFO:Initializing load_model()
+2020-12-14 15:52:22,341:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:52:22,346:INFO:Initializing load_model()
+2020-12-14 15:52:22,346:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:53:10,555:INFO:Initializing load_model()
+2020-12-14 15:53:10,555:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:53:10,566:INFO:Initializing load_model()
+2020-12-14 15:53:10,566:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:53:17,549:INFO:Initializing load_model()
+2020-12-14 15:53:17,549:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:53:17,555:INFO:Initializing load_model()
+2020-12-14 15:53:17,555:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:54:22,553:INFO:Initializing load_model()
+2020-12-14 15:54:22,553:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:54:22,559:INFO:Initializing load_model()
+2020-12-14 15:54:22,559:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:54:29,519:INFO:Initializing load_model()
+2020-12-14 15:54:29,519:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:54:29,525:INFO:Initializing load_model()
+2020-12-14 15:54:29,525:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:55:16,105:INFO:Initializing load_model()
+2020-12-14 15:55:16,105:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:55:16,111:INFO:Initializing load_model()
+2020-12-14 15:55:16,111:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:55:23,058:INFO:Initializing load_model()
+2020-12-14 15:55:23,058:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:55:23,064:INFO:Initializing load_model()
+2020-12-14 15:55:23,064:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:56:33,426:INFO:Initializing load_model()
+2020-12-14 15:56:33,427:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:56:33,433:INFO:Initializing load_model()
+2020-12-14 15:56:33,433:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:56:40,632:INFO:Initializing load_model()
+2020-12-14 15:56:40,632:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 15:56:40,637:INFO:Initializing load_model()
+2020-12-14 15:56:40,637:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:00:01,047:INFO:Initializing load_model()
+2020-12-14 16:00:01,047:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:00:01,053:INFO:Initializing load_model()
+2020-12-14 16:00:01,053:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:00:08,017:INFO:Initializing load_model()
+2020-12-14 16:00:08,017:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:00:08,023:INFO:Initializing load_model()
+2020-12-14 16:00:08,023:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:00:35,049:INFO:Initializing load_model()
+2020-12-14 16:00:35,049:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:00:35,055:INFO:Initializing load_model()
+2020-12-14 16:00:35,055:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:00:42,039:INFO:Initializing load_model()
+2020-12-14 16:00:42,039:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:00:42,045:INFO:Initializing load_model()
+2020-12-14 16:00:42,045:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:01:28,788:INFO:Initializing load_model()
+2020-12-14 16:01:28,788:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:01:28,793:INFO:Initializing load_model()
+2020-12-14 16:01:28,794:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:01:35,715:INFO:Initializing load_model()
+2020-12-14 16:01:35,715:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:01:35,721:INFO:Initializing load_model()
+2020-12-14 16:01:35,721:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:02:22,049:INFO:Initializing load_model()
+2020-12-14 16:02:22,050:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:02:22,056:INFO:Initializing load_model()
+2020-12-14 16:02:22,056:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:02:28,919:INFO:Initializing load_model()
+2020-12-14 16:02:28,919:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:02:28,924:INFO:Initializing load_model()
+2020-12-14 16:02:28,924:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:04:25,890:INFO:Initializing load_model()
+2020-12-14 16:04:25,890:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:04:25,896:INFO:Initializing load_model()
+2020-12-14 16:04:25,896:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:04:32,621:INFO:Initializing load_model()
+2020-12-14 16:04:32,622:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:04:32,627:INFO:Initializing load_model()
+2020-12-14 16:04:32,627:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:05:40,434:INFO:Initializing load_model()
+2020-12-14 16:05:40,434:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:05:40,439:INFO:Initializing load_model()
+2020-12-14 16:05:40,439:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:05:47,393:INFO:Initializing load_model()
+2020-12-14 16:05:47,393:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:05:47,401:INFO:Initializing load_model()
+2020-12-14 16:05:47,402:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:08:06,026:INFO:Initializing load_model()
+2020-12-14 16:08:06,026:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:08:06,032:INFO:Initializing load_model()
+2020-12-14 16:08:06,032:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:08:13,004:INFO:Initializing load_model()
+2020-12-14 16:08:13,005:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:08:13,011:INFO:Initializing load_model()
+2020-12-14 16:08:13,011:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:09:32,849:INFO:Initializing load_model()
+2020-12-14 16:09:32,849:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:09:32,854:INFO:Initializing load_model()
+2020-12-14 16:09:32,854:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:09:39,707:INFO:Initializing load_model()
+2020-12-14 16:09:39,707:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:09:39,713:INFO:Initializing load_model()
+2020-12-14 16:09:39,713:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:10:54,793:INFO:Initializing load_model()
+2020-12-14 16:10:54,793:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:10:54,798:INFO:Initializing load_model()
+2020-12-14 16:10:54,799:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:11:01,345:INFO:Initializing load_model()
+2020-12-14 16:11:01,345:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:11:01,350:INFO:Initializing load_model()
+2020-12-14 16:11:01,350:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:12:15,196:INFO:Initializing predict_model()
+2020-12-14 16:12:15,196:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 16:12:15,196:INFO:Checking exceptions
+2020-12-14 16:12:15,196:INFO:Preloading libraries
+2020-12-14 16:12:15,346:INFO:Initializing predict_model()
+2020-12-14 16:12:15,346:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 16:12:15,346:INFO:Checking exceptions
+2020-12-14 16:12:15,346:INFO:Preloading libraries
+2020-12-14 16:12:15,500:INFO:Initializing predict_model()
+2020-12-14 16:12:15,500:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 16:12:15,500:INFO:Checking exceptions
+2020-12-14 16:12:15,500:INFO:Preloading libraries
+2020-12-14 16:13:45,197:INFO:Initializing load_model()
+2020-12-14 16:13:45,197:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:13:45,203:INFO:Initializing load_model()
+2020-12-14 16:13:45,203:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:15:27,597:INFO:Initializing load_model()
+2020-12-14 16:15:27,597:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:15:27,603:INFO:Initializing load_model()
+2020-12-14 16:15:27,603:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:15:34,602:INFO:Initializing load_model()
+2020-12-14 16:15:34,602:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:15:34,608:INFO:Initializing load_model()
+2020-12-14 16:15:34,608:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:16:42,611:INFO:Initializing load_model()
+2020-12-14 16:16:42,611:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:16:42,617:INFO:Initializing load_model()
+2020-12-14 16:16:42,617:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:16:49,565:INFO:Initializing load_model()
+2020-12-14 16:16:49,565:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:16:49,570:INFO:Initializing load_model()
+2020-12-14 16:16:49,570:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:17:17,016:INFO:Initializing load_model()
+2020-12-14 16:17:17,016:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:17:17,022:INFO:Initializing load_model()
+2020-12-14 16:17:17,022:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:17:23,891:INFO:Initializing load_model()
+2020-12-14 16:17:23,891:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:17:23,900:INFO:Initializing load_model()
+2020-12-14 16:17:23,900:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:17:35,016:INFO:Initializing predict_model()
+2020-12-14 16:17:35,016:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 16:17:35,016:INFO:Checking exceptions
+2020-12-14 16:17:35,016:INFO:Preloading libraries
+2020-12-14 16:17:35,157:INFO:Initializing predict_model()
+2020-12-14 16:17:35,157:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 16:17:35,157:INFO:Checking exceptions
+2020-12-14 16:17:35,157:INFO:Preloading libraries
+2020-12-14 16:20:46,521:INFO:Initializing load_model()
+2020-12-14 16:20:46,521:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:20:46,527:INFO:Initializing load_model()
+2020-12-14 16:20:46,527:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:21:43,794:INFO:Initializing load_model()
+2020-12-14 16:21:43,794:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:21:43,799:INFO:Initializing load_model()
+2020-12-14 16:21:43,799:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:21:50,727:INFO:Initializing load_model()
+2020-12-14 16:21:50,727:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:21:50,732:INFO:Initializing load_model()
+2020-12-14 16:21:50,733:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:22:03,881:INFO:Initializing predict_model()
+2020-12-14 16:22:03,881:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 16:22:03,882:INFO:Checking exceptions
+2020-12-14 16:22:03,882:INFO:Preloading libraries
+2020-12-14 16:22:04,022:INFO:Initializing predict_model()
+2020-12-14 16:22:04,022:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 16:22:04,022:INFO:Checking exceptions
+2020-12-14 16:22:04,022:INFO:Preloading libraries
+2020-12-14 16:24:08,267:INFO:Initializing load_model()
+2020-12-14 16:24:08,267:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:24:08,273:INFO:Initializing load_model()
+2020-12-14 16:24:08,273:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:26:25,080:INFO:Initializing load_model()
+2020-12-14 16:26:25,080:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:26:25,086:INFO:Initializing load_model()
+2020-12-14 16:26:25,086:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:26:31,678:INFO:Initializing load_model()
+2020-12-14 16:26:31,678:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:26:31,686:INFO:Initializing load_model()
+2020-12-14 16:26:31,686:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:28:43,637:INFO:Initializing load_model()
+2020-12-14 16:28:43,637:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:28:43,643:INFO:Initializing load_model()
+2020-12-14 16:28:43,643:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:28:50,208:INFO:Initializing load_model()
+2020-12-14 16:28:50,208:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:28:50,213:INFO:Initializing load_model()
+2020-12-14 16:28:50,213:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:30:04,280:INFO:Initializing load_model()
+2020-12-14 16:30:04,280:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:30:04,286:INFO:Initializing load_model()
+2020-12-14 16:30:04,286:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:32:37,514:INFO:Initializing load_model()
+2020-12-14 16:32:37,514:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:32:37,520:INFO:Initializing load_model()
+2020-12-14 16:32:37,520:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:32:43,994:INFO:Initializing load_model()
+2020-12-14 16:32:43,994:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:32:44,000:INFO:Initializing load_model()
+2020-12-14 16:32:44,000:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:33:16,096:INFO:Initializing load_model()
+2020-12-14 16:33:16,096:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:33:16,101:INFO:Initializing load_model()
+2020-12-14 16:33:16,101:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:33:41,872:INFO:Initializing load_model()
+2020-12-14 16:33:41,873:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:33:41,878:INFO:Initializing load_model()
+2020-12-14 16:33:41,878:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:33:48,362:INFO:Initializing load_model()
+2020-12-14 16:33:48,362:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:33:48,367:INFO:Initializing load_model()
+2020-12-14 16:33:48,367:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:35:28,359:INFO:Initializing load_model()
+2020-12-14 16:35:28,359:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:35:28,365:INFO:Initializing load_model()
+2020-12-14 16:35:28,365:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:35:35,164:INFO:Initializing load_model()
+2020-12-14 16:35:35,164:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:35:35,170:INFO:Initializing load_model()
+2020-12-14 16:35:35,170:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:36:38,943:INFO:Initializing load_model()
+2020-12-14 16:36:38,943:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:36:38,948:INFO:Initializing load_model()
+2020-12-14 16:36:38,948:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:36:45,464:INFO:Initializing load_model()
+2020-12-14 16:36:45,464:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:36:45,469:INFO:Initializing load_model()
+2020-12-14 16:36:45,469:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:37:12,770:INFO:Initializing load_model()
+2020-12-14 16:37:12,770:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:37:12,775:INFO:Initializing load_model()
+2020-12-14 16:37:12,776:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:37:19,608:INFO:Initializing load_model()
+2020-12-14 16:37:19,608:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:37:19,614:INFO:Initializing load_model()
+2020-12-14 16:37:19,614:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 16:37:58,862:INFO:Initializing predict_model()
+2020-12-14 16:37:58,862:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 16:37:58,862:INFO:Checking exceptions
+2020-12-14 16:37:58,862:INFO:Preloading libraries
+2020-12-14 16:37:58,988:INFO:Initializing predict_model()
+2020-12-14 16:37:58,988:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(features_todrop=['Unnamed: 0', 'id',
+                                                       'member_id',
+                                                       'funded_amnt',
+                                                       'funded_amnt_inv',
+                                                       'installment',
+                                                       'sub_grade', 'emp_title',
+                                                       'verification_status',
+                                                       'issue_d', 'pymnt_plan',
+                                                       'desc', 'title',
+                                                       'delinq_2yrs',
+                                                       'inq_last_6mths',
+                                                       'mths_since_last_delinq',
+                                                       'mths_since_last_record',
+                                                       'revol_util',
+                                                       'initial_list_status',
+                                                       'out_prncp'...
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='loan_status')),
+                ('fix_perfect', Remove_100(target='loan_status')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LogisticRegression(C=4.432, class_weight={}, max_iter=1000,
+                                    random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-14 16:37:58,988:INFO:Checking exceptions
+2020-12-14 16:37:58,989:INFO:Preloading libraries
+2020-12-14 17:55:30,558:INFO:Initializing load_model()
+2020-12-14 17:55:30,558:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 17:55:30,564:INFO:Initializing load_model()
+2020-12-14 17:55:30,564:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
+2020-12-14 17:55:37,780:INFO:Initializing load_model()
+2020-12-14 17:55:37,780:INFO:load_model(model_name=D:\models\Final Logistic Classification Model, platform=None, authentication=None, verbose=True)
+2020-12-14 17:55:37,786:INFO:Initializing load_model()
+2020-12-14 17:55:37,786:INFO:load_model(model_name=D:\models\Final random forest Model, platform=None, authentication=None, verbose=True)
